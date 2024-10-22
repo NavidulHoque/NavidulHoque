@@ -5,7 +5,7 @@ I am a MERN Stack Developer who is passionate about making 100% error free dynam
 
 ## 👨‍💻 Skills: 
 ✅ Next JS <br> 
-✅ REACT JS <br>
+✅ React JS <br>
 ✅ Javascript <br>
 ✅ HTML <br>
 ✅ CSS <br>
