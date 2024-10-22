@@ -17,7 +17,7 @@ I am a MERN Stack Developer who is passionate about making 100% error free dynam
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque)](https://github.com/anuraghazra/github-readme-stats)
 
-<--
+<!--
 ## ☕ Connect with me!
 [<img src='https://github.com/NavidulHoque/NavidulHoque/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hnavidul/)  [<img src='https://github.com/NavidulHoque/NavidulHoque/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/navidulhoque//)  [<img src='https://github.com/NavidulHoque/NavidulHoque/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/navidul-hoque-04b850267//) 
 -->
