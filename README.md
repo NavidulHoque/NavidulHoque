@@ -1,16 +1,10 @@
-## Hi there 👋
+### Hi there 👋, I'm Navidul Hoque
+#### MERN Stack Developer
+I am a MERN Stack Developer who is passionate about making 100% error free dynamic websites. My hands-on experience has strengthened my understanding of web development, particularly in building responsive and dynamic user interfaces. On the backend, I focus on developing robust APIs, handling databases efficiently, and implementing secure authentication.
+
+Skills: Next JS / REACT JS / JS / HTML / CSS / Tailwind CSS / Node JS / Express JS / MongoDB / Firebase
 
 
-**NavidulHoque/NavidulHoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ..
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NavidulHoque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/navidul-hoque-04b850267//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hnavidul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/navidulhoque//)  
 
