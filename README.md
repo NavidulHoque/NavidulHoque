@@ -7,6 +7,7 @@ I am a MERN Stack Developer who is passionate about making 100% error free dynam
 ✅ Next JS <br> 
 ✅ React JS <br>
 ✅ Javascript <br>
+✅ Typescript <br>
 ✅ HTML <br>
 ✅ CSS <br>
 ✅ Tailwind CSS <br>
