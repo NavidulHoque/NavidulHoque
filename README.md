@@ -15,6 +15,8 @@ I am a MERN Stack Developer who is passionate about making 100% error free dynam
 ✅ Express JS <br>
 ✅ MongoDB <br>
 ✅ Firebase <br>
+✅ Git <br>
+✅ Github <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque)](https://github.com/anuraghazra/github-readme-stats)
 
