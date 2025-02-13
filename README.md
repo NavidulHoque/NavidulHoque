@@ -13,6 +13,7 @@ I am a MERN Stack Developer who is passionate about making 100% error free dynam
 ✅ Tailwind CSS <br>
 ✅ Node JS <br>
 ✅ Express JS <br>
+✅ Nest JS <br>
 ✅ MongoDB <br>
 ✅ Firebase <br>
 ✅ Git <br>
