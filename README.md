@@ -4,10 +4,11 @@
 I am a MERN Stack Developer who is passionate about making 100% error free dynamic websites. My hands-on experience has strengthened my understanding of web development, particularly in building responsive and dynamic user interfaces. On the backend, I focus on developing robust APIs, handling databases efficiently, and implementing secure authentication.
 
 ## 👨‍💻 Skills: 
-✅ Next JS <br> 
-✅ React JS <br>
 ✅ Javascript <br>
 ✅ Typescript <br>
+✅ Python <br>
+✅ Next JS <br> 
+✅ React JS <br>
 ✅ HTML <br>
 ✅ CSS <br>
 ✅ Tailwind CSS <br>
