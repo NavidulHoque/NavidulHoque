@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Navidul Hoque
-#### MERN Stack Developer
+#### Full Stack Developer
 ## 🚀 About Me
-I am a MERN Stack Developer who is passionate about making 100% error free dynamic websites. My hands-on experience has strengthened my understanding of web development, particularly in building responsive and dynamic user interfaces. On the backend, I focus on developing robust APIs, handling databases efficiently, and implementing secure authentication.
+I am a Full Stack Developer who is passionate about making 100% error free dynamic websites. My hands-on experience has strengthened my understanding of web development, particularly in building responsive and dynamic user interfaces. On the backend, I focus on developing robust APIs, handling databases efficiently, and implementing secure authentication.
 
 ## 👨‍💻 Skills: 
 ✅ Javascript <br>
