@@ -1,22 +1,16 @@
 ### Hi there 👋, I'm Navidul Hoque
-#### Full Stack Developer
+#### Software Engineer
 ## 🚀 About Me
-I am a Full Stack Developer who is passionate about making 100% error free dynamic websites. My hands-on experience has strengthened my understanding of web development, particularly in building responsive and dynamic user interfaces. On the backend, I focus on developing robust APIs, handling databases efficiently, and implementing secure authentication.
+I am a passionate Software Engineer dedicated to building effective software solutions. With hands-on experience in web development, I specialize in designing robust APIs, optimizing database performance, and implementing secure authentication.
 
 ## 👨‍💻 Skills: 
 ✅ Javascript <br>
 ✅ Typescript <br>
-✅ Python <br>
-✅ Next JS <br> 
-✅ React JS <br>
-✅ HTML <br>
-✅ CSS <br>
-✅ Tailwind CSS <br>
 ✅ Node JS <br>
 ✅ Express JS <br>
 ✅ Nest JS <br>
+✅ React JS <br>
 ✅ MongoDB <br>
-✅ Firebase <br>
 ✅ Git <br>
 ✅ Github <br>
 
