@@ -9,7 +9,6 @@ I am a passionate Software Engineer dedicated to building effective software sol
 ✅ Node JS <br>
 ✅ Express JS <br>
 ✅ Nest JS <br>
-✅ React JS <br>
 ✅ MongoDB <br>
 ✅ Mongoose <br>
 ✅ Git <br>
