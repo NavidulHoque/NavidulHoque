@@ -11,8 +11,10 @@ I am a passionate Software Engineer dedicated to building effective software sol
 ✅ Nest JS <br>
 ✅ React JS <br>
 ✅ MongoDB <br>
+✅ Mongoose <br>
 ✅ Git <br>
 ✅ Github <br>
+✅ Postman <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque)](https://github.com/anuraghazra/github-readme-stats)
 
