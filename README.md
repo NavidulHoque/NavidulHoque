@@ -11,6 +11,10 @@ I am a passionate Backend (MERN) focused Software Engineer dedicated to building
 ✅ Nest JS <br>
 ✅ MongoDB <br>
 ✅ Mongoose <br>
+✅ Docker <br>
+✅ Redis <br>
+✅ Bull Queue <br>
+✅ Cron Jobs <br>
 ✅ React JS <br>
 ✅ Git <br>
 ✅ Github <br>
