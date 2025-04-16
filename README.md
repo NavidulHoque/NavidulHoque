@@ -12,6 +12,7 @@ I am a passionate Backend (MERN) focused Software Engineer dedicated to building
 ✅ MongoDB <br>
 ✅ Mongoose <br>
 ✅ MySQL <br>
+✅ PostgreSQL <br>
 ✅ Prisma <br>
 ✅ Docker <br>
 ✅ Redis <br>
