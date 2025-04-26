@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Navidul Hoque
 #### Software Engineer
 ## 🚀 About Me
-I am a passionate Backend focused Software Engineer dedicated to building effective software solutions. With hands-on experience in web development, I specialize in designing robust APIs, optimizing database performance, and implementing secure authentication.
+Hello, I’m Navidul, a fresh Computer Science and Engineering graduate with a strong passion for backend focused software engineering. I specialize in web development, building robust APIs, optimizing databases and implementing secure authentication.
 
 ## 👨‍💻 Skills: 
 ✅ Javascript <br>
