@@ -31,7 +31,10 @@ I am a passionate Backend focused Software Engineer dedicated to building effect
 -->
 
 ## 📧 For Business Inquiries 
-✅  ► hnavidul@gmail.com
+✅ Mail ► hnavidul@gmail.com
+✅ LinkedIn ► (https://www.linkedin.com/in/navidul-hoque-04b850267/)
+✅ Portfolio ► (https://navidulhoque.netlify.app/)
+
 
 
 
