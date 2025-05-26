@@ -16,7 +16,7 @@ I'm a recent Computer Science and Engineering graduate with a passion for backen
 ✅ Prisma <br>
 ✅ Docker <br>
 ✅ Redis <br>
-✅ Bull Queue <br>
+✅ BullMQ <br>
 ✅ Cron Jobs <br>
 ✅ React JS <br>
 ✅ Git <br>
