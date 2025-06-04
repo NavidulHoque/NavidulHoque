@@ -6,6 +6,7 @@ I'm a recent Computer Science and Engineering graduate with a passion for backen
 ## 👨‍💻 Skills: 
 ✅ Javascript <br>
 ✅ Typescript <br>
+✅ Object Oriented Programming <br>
 ✅ Node JS <br>
 ✅ Express JS <br>
 ✅ Nest JS <br>
@@ -18,7 +19,6 @@ I'm a recent Computer Science and Engineering graduate with a passion for backen
 ✅ Redis <br>
 ✅ BullMQ <br>
 ✅ Cron Jobs <br>
-✅ React JS <br>
 ✅ Git <br>
 ✅ Github <br>
 ✅ Postman <br>
