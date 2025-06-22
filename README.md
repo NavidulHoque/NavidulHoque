@@ -1,39 +1,44 @@
-### Hi there 👋, I'm Navidul Hoque
-### Software Engineer
+<h1 align="center">Hi there 👋, I'm Navidul Hoque</h1>
+<h1 align="center">Software Engineer</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NavidulHoque&label=Profile%20views&color=0e75b6&style=flat" alt="navidulHoque" />
+</p>
+
 ## 🚀 About Me
-I'm a recent Computer Science and Engineering graduate with a passion for backend-focused software engineering. I specialize in web development, building robust APIs, optimizing databases, and implementing secure authentication.
+- 🌍 I'm from **Bangladesh**
+- 💻 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**  
+- 🔧 Skilled in **NodeJS** and building robust APIs, optimizing databases, and implementing secure authentication.  
+- 📚 Always learning new tools & tech to sharpen my skills.
+- 🎯 Passionate about clean code, best practices, and improving performance.
 
 ## 👨‍💻 Skills: 
-✅ Javascript <br>
-✅ Typescript <br>
-✅ Object Oriented Programming <br>
-✅ Node JS <br>
-✅ Express JS <br>
-✅ Nest JS <br>
-✅ MongoDB <br>
-✅ Mongoose <br>
-✅ MySQL <br>
-✅ PostgreSQL <br>
-✅ Prisma <br>
-✅ Docker <br>
-✅ Redis <br>
-✅ BullMQ <br>
-✅ Cron Jobs <br>
-✅ Git <br>
-✅ Github <br>
-✅ Postman <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque)](https://github.com/anuraghazra/github-readme-stats)
+### 🌐 Languages
+`Javascript` | `Typescript`
 
-<!--
-## ☕ Connect with me!
-[<img src='https://github.com/NavidulHoque/NavidulHoque/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hnavidul/)  [<img src='https://github.com/NavidulHoque/NavidulHoque/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/navidulhoque//)  [<img src='https://github.com/NavidulHoque/NavidulHoque/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/navidul-hoque-04b850267//) 
--->
+### 🗄️ Databases
+`PostgreSQL` | `MySQL` | `MongoDB` | `Mongoose` | `Prisma`
 
-## 📧 For Business Inquiries 
-✅ Mail ► hnavidul@gmail.com <br>
-✅ LinkedIn ► https://www.linkedin.com/in/navidul-hoque-04b850267 <br>
-✅ Portfolio ► https://navidulhoque.netlify.app <br>
+### 🚀 Frameworks
+`Node JS` | `Express JS` | `Nest JS`
+
+### 🧱 Tools & Platforms
+`Docker` | `Redis` | `BullMQ` | `Cron Jobs` | `WebSocket` | `JWT` | `OAuth` | `Stripe` | `Cloudinary`
+
+### 🧰 Dev Tools
+`Git` | `Github` | `Postman` | `Visual Studio Code` 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+## 🌐 For Business Inquiries 
+📧 Mail ► hnavidul@gmail.com <br>
+💼 LinkedIn ► https://www.linkedin.com/in/navidul-hoque-04b850267 <br>
+🔗 Portfolio ► https://navidulhoque.netlify.app <br>
 
 
 
