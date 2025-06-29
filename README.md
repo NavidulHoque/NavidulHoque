@@ -24,7 +24,7 @@
 `Node JS` | `Express JS` | `Nest JS`
 
 ### 🧱 Tools & Platforms
-`Docker` | `Redis` | `BullMQ` | `Kafka` | `Cron Jobs` | `WebSocket` | `JWT` | `OAuth` | `Stripe` | `Cloudinary`
+`Docker` | `Redis` | `BullMQ` | `Apache Kafka` | `Cron Jobs` | `WebSocket` | `JWT` | `OAuth` | `Stripe` | `Cloudinary`
 
 ### 🧰 Dev Tools
 `Git` | `Github` | `Postman` | `Visual Studio Code` 
