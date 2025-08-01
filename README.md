@@ -15,13 +15,13 @@
 ## 👨‍💻 Skills: 
 
 ### 🌐 Languages
-`Javascript` | `Typescript`
+`Javascript` | `Typescript` | `PHP`
 
 ### 🗄️ Databases
 `PostgreSQL` | `MySQL` | `MongoDB` | `Mongoose` | `Prisma`
 
 ### 🚀 Frameworks
-`Node JS` | `Express JS` | `Nest JS`
+`Node JS` | `Express JS` | `Nest JS` | `Laravel`
 
 ### 🧱 Tools & Platforms
 `Docker` | `Redis` | `BullMQ` | `Apache Kafka` | `Cron Jobs` | `WebSocket` | `JWT` | `OAuth` | `Stripe` | `Cloudinary`
