@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🌍 I'm from **Bangladesh**
 - 💻 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**  
-- 🔧 Skilled in **NodeJS** and building robust APIs, optimizing databases, and implementing secure authentication.  
+- 🔧 Skilled in **NodeJS, Laravel** and building robust APIs, optimizing databases, and implementing secure authentication.  
 - 📚 Always learning new tools & tech to sharpen my skills.
 - 🎯 Passionate about clean code, best practices, and improving performance.
 
