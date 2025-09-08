@@ -7,42 +7,48 @@
 
 ## 🚀 About Me
 - 🌍 I'm from **Bangladesh**
-- 💻 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**  
-- 🔧 Skilled in **NodeJS, Laravel** and building robust APIs, optimizing databases, and implementing secure authentication.  
-- 📚 Always learning new tools & tech to sharpen my skills.
-- 🎯 Passionate about clean code, best practices, and improving performance.
+- 🎓 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**  
+- 💻 Focused on **backend development** — building robust APIs, optimizing databases, and implementing secure authentication.  
+- 🤖 Enthusiastic about **AI integration**, leveraging models like **OpenAI** to build smarter and more efficient backend systems.  
+- 📚 Always learning new tools & technologies to sharpen my skills.  
+- 🎯 Passionate about clean code, best practices, and improving performance.  
 
-## 👨‍💻 Skills: 
+## 👨‍💻 Skills  
 
-### 🌐 Languages
-`Javascript` | `Typescript` | `PHP`
+### 🌐 Languages  
+`TypeScript` | `JavaScript`  
 
-### 🗄️ Databases
-`PostgreSQL` | `MySQL` | `MongoDB` | `Mongoose` | `Prisma`
+### ⚙️ Backend Frameworks  
+`Node.js` | `Express.js` | `NestJS`  
 
-### 🚀 Frameworks
-`Node JS` | `Express JS` | `Nest JS` | `Laravel`
+### 🏗️ Architecture & Patterns  
+`Microservices` | `REST APIs` | `Event-Driven Architecture`  
 
-### 🧱 Tools & Platforms
-`Docker` | `Redis` | `BullMQ` | `Apache Kafka` | `Cron Jobs` | `WebSocket` | `JWT` | `OAuth` | `Stripe` | `Cloudinary`
+### 🗄️ Databases & ORMs  
+`PostgreSQL` | `MySQL` | `MongoDB` | `Prisma ORM` | `Mongoose` | `phpMyAdmin`  
 
-### 🧰 Dev Tools
-`Git` | `Github` | `Postman` | `Visual Studio Code` 
+### 📩 Messaging & Queues  
+`Redis` | `BullMQ` | `Apache Kafka` | `WebSocket` | `Cron Jobs`  
 
-## 📊 GitHub Stats
+### ☁️ DevOps & Cloud  
+`Docker` | `Cloudinary`  
+
+### 🔐 Security & Authentication  
+`JWT` | `OAuth2` | `RBAC (Role-Based Access Control)` | `Rate Limiting`  
+
+### 💳 Payments & Integrations  
+`Stripe Connect` | `OpenAI`  
+
+### 🧰 Version Control & Dev Tools  
+`Git` | `GitHub` | `Postman` | `Visual Studio Code`  
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-## 🌐 For Business Inquiries 
-📧 Mail ► hnavidul@gmail.com <br>
-💼 LinkedIn ► https://www.linkedin.com/in/navidul-hoque-04b850267 <br>
-🔗 Portfolio ► https://navidulhoque.netlify.app <br>
-
-
-
-
-
-
-
+## 🌐 For Business Inquiries  
+📧 Mail ► **hnavidul@gmail.com** <br>  
+💼 LinkedIn ► [linkedin.com/in/navidul-hoque-04b850267](https://www.linkedin.com/in/navidul-hoque-04b850267) <br>  
+🔗 Portfolio ► [navidulhoque.netlify.app](https://navidulhoque.netlify.app)  
