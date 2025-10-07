@@ -9,7 +9,8 @@
 - 🌍 I'm from **Bangladesh**
 - 🎓 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**  
 - 💻 Focused on **backend development** — building robust APIs, optimizing databases, and implementing secure authentication.  
-- 🤖 Enthusiastic about **AI integration**, leveraging models like **OpenAI** to build smarter and more efficient backend systems.  
+- 🤖 Enthusiastic about **AI integration**, leveraging models like **OpenAI** to build smarter and more efficient backend systems.
+- 🧩 Familiar with frontend technologies like React.js and Next.js, enabling smooth API integration, data flow management, and backend coordination.
 - 📚 Always learning new tools & technologies to sharpen my skills.  
 - 🎯 Passionate about clean code, best practices, and improving performance.  
 
@@ -38,6 +39,9 @@
 
 ### 💳 Payments & Integrations  
 `Stripe Connect` | `OpenAI`  
+
+### 🧩 Frontend Familiarity
+`React.js` | `Next.js`
 
 ### 🧰 Version Control & Dev Tools  
 `Git` | `GitHub` | `Postman` | `Visual Studio Code`  
