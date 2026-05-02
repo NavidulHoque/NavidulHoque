@@ -24,26 +24,20 @@
 ### ⚙️ Backend Frameworks  
 `Node.js` | `Express.js` | `NestJS` | `Bun.js`
 
-### 🏗️ Architecture & Patterns  
-`Microservices` | `REST APIs` | `Event-Driven Architecture` | `Monorepo (Turborepo)` | `oRPC` | `tRPC` | `Zod Validation`
+### 🏗️ Architecture & API  
+`REST APIs` | `Monorepo (Turborepo)` | `oRPC` | `tRPC` | `Zod Validation`
 
 ### 🗄️ Databases & ORMs  
-`PostgreSQL` | `MySQL` | `MongoDB` | `Drizzle ORM` | `TypeORM`
+`PostgreSQL` | `Drizzle ORM` | `TypeORM`
 
 ### 🔄 Realtime & Background Processing  
 `WebSockets` | `Supabase Realtime` | `Cron Jobs`
 
-### 📩 Messaging & Queues  
-`Redis` | `BullMQ` | `Apache Kafka`
-
-### ☁️ DevOps & Cloud  
-`Docker` | `Cloudinary` | `Supabase`
-
 ### 🔐 Security & Authentication  
-`JWT` | `OAuth2` | `Supabase Auth` | `RBAC (Role-Based Access Control)` | `Rate Limiting`
+`JWT` | `Supabase Auth` | `RBAC (Role-Based Access Control)` | `Rate Limiting`
 
 ### 💳 Payments & Integrations  
-`Stripe Connect` | `OpenAI`
+`Stripe Connect`
 
 ### 🧩 Frontend Familiarity
 `React.js` | `Next.js`
