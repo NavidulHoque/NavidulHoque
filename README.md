@@ -7,12 +7,14 @@
 
 ## 🚀 About Me
 - 🌍 I'm from **Bangladesh**
-- 🎓 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**  
-- 💻 Focused on **backend development** — building robust APIs, optimizing databases, and implementing secure authentication.  
-- 🤖 Enthusiastic about **AI integration**, leveraging models like **OpenAI** to build smarter and more efficient backend systems.
-- 🧩 Familiar with frontend technologies like **React.js** and **Next.js**, enabling smooth API integration, data flow management, and backend coordination.
-- 📚 Always learning new tools & technologies to sharpen my skills.  
-- 🎯 Passionate about clean code, best practices, and improving performance.  
+- 🎓 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**
+- 💼 Backend Software Engineer with **1+ years of professional experience**
+- 💻 Focused on **backend development** — building scalable APIs, optimizing databases, and designing clean architectures  
+- 🧠 Experienced in **monorepo architectures**, **type-safe APIs (oRPC, tRPC)**, and **Supabase integrations**
+- 🤖 Interested in **AI integration** using tools like **OpenAI**
+- 🧩 Familiar with frontend technologies like **React.js** and **Next.js**
+- 📚 Always learning and improving system design and backend performance
+- 🎯 Passionate about clean, maintainable, production-ready code  
 
 ## 👨‍💻 Skills  
 
@@ -20,25 +22,28 @@
 `TypeScript` | `JavaScript`  
 
 ### ⚙️ Backend Frameworks  
-`Node.js` | `Express.js` | `NestJS`  
+`Node.js` | `Express.js` | `NestJS` | `Bun.js`
 
 ### 🏗️ Architecture & Patterns  
-`Microservices` | `REST APIs` | `Event-Driven Architecture`  
+`Microservices` | `REST APIs` | `Event-Driven Architecture` | `Monorepo (Turborepo)` | `oRPC` | `tRPC` | `Zod Validation`
 
 ### 🗄️ Databases & ORMs  
-`PostgreSQL` | `MySQL` | `MongoDB` | `Prisma ORM` | `Mongoose` | `phpMyAdmin`  
+`PostgreSQL` | `MySQL` | `MongoDB` | `Drizzle ORM` | `TypeORM`
+
+### 🔄 Realtime & Background Processing  
+`WebSockets` | `Supabase Realtime` | `Cron Jobs`
 
 ### 📩 Messaging & Queues  
-`Redis` | `BullMQ` | `Apache Kafka` | `WebSocket` | `Cron Jobs`  
+`Redis` | `BullMQ` | `Apache Kafka`
 
 ### ☁️ DevOps & Cloud  
-`Docker` | `Cloudinary`  
+`Docker` | `Cloudinary` | `Supabase`
 
 ### 🔐 Security & Authentication  
-`JWT` | `OAuth2` | `RBAC (Role-Based Access Control)` | `Rate Limiting`  
+`JWT` | `OAuth2` | `Supabase Auth` | `RBAC (Role-Based Access Control)` | `Rate Limiting`
 
 ### 💳 Payments & Integrations  
-`Stripe Connect` | `OpenAI`  
+`Stripe Connect` | `OpenAI`
 
 ### 🧩 Frontend Familiarity
 `React.js` | `Next.js`
