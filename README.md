@@ -36,8 +36,8 @@
 ### 🔐 Security & Authentication  
 `JWT` | `Supabase Auth` | `RBAC (Role-Based Access Control)` | `Rate Limiting`
 
-### 💳 Payments & Integrations  
-`Stripe Connect`
+### 💳 Payments & Storage  
+`Stripe Connect` | `Supabase Storage`
 
 ### 🧩 Frontend Familiarity
 `React.js` | `Next.js`
