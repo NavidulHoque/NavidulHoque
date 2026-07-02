@@ -1,57 +1,37 @@
 <h1 align="center">Hi there 👋, I'm Navidul Hoque</h1>
-<h1 align="center">Software Engineer</h1>
-
+<h1 align="center">Backend Engineer → AI Engineering</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NavidulHoque&label=Profile%20views&color=0e75b6&style=flat" alt="navidulHoque" />
 </p>
 
 ## 🚀 About Me
 - 🌍 I'm from **Bangladesh**
-- 🎓 Recent **Computer Science and Engineering** graduate from **Military Institute of Science and Technology**
+- 🎓 **Computer Science and Engineering** graduate from **Military Institute of Science and Technology (MIST)**
 - 💼 Backend Software Engineer with **1+ years of professional experience**
-- 💻 Focused on **backend development** — building scalable APIs, optimizing databases, and designing clean architectures  
-- 🧠 Experienced in **monorepo architectures**, **type-safe APIs (oRPC, tRPC)**, and **Supabase integrations**
-- 🤖 Interested in **AI integration** using tools like **OpenAI**
-- 🧩 Familiar with frontend technologies like **React.js** and **Next.js**
-- 📚 Always learning and improving system design and backend performance
-- 🎯 Passionate about clean, maintainable, production-ready code  
+- 🔄 Currently transitioning into **Data Science and AI Engineering** — currently enrolled in a **Post Graduate Diploma in Data Science with ML & AI** at PeopleNTech Institute, Dhaka
+- 🗄️ Strong foundation in **PostgreSQL**, **API architecture** and **scalable system design** — giving me a head start in data pipeline and ML deployment work
+- 🤖 Actively building toward **AI Engineering** — working through Python, Pandas, Machine Learning and real-world data projects
+- 📊 Currently working on a **Bangladesh Healthcare Appointment Analysis** project using Python and Pandas
+- 📚 Also studying **software business** to bridge technical and business perspectives
+- 🎯 Long-term goal: build production-grade AI systems that solve real problems
 
-## 👨‍💻 Skills  
+## 👨‍💻 Skills
 
-### 🌐 Languages  
-`TypeScript` | `JavaScript`  
+### 🤖 Data Science & AI (In Progress)
+`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Machine Learning` | `SQL` | `Power BI`
 
-### ⚙️ Backend Frameworks  
-`Node.js` | `Express.js` | `NestJS` | `Bun.js`
+### ⚙️ Engineering Background (Production Experience)
+`TypeScript` | `JavaScript` | `Node.js` | `NestJS` | `PostgreSQL` |  `REST APIs` | `Docker`
 
-### 🏗️ Architecture & API  
-`REST APIs` | `Monorepo (Turborepo)` | `oRPC` | `tRPC` | `Zod Validation`
+### 🧰 Version Control & Tools
+`Git` | `GitHub` | `Postman` | `Visual Studio Code`
 
-### 🗄️ Databases & ORMs  
-`PostgreSQL` | `Drizzle ORM` | `TypeORM`
-
-### 🔄 Realtime & Background Processing  
-`WebSockets` | `Supabase Realtime` | `Cron Jobs`
-
-### 🔐 Security & Authentication  
-`JWT` | `Supabase Auth` | `RBAC (Role-Based Access Control)` | `Rate Limiting`
-
-### 💳 Payments & Storage  
-`Stripe Connect` | `Supabase Storage`
-
-### 🧩 Frontend Familiarity
-`React.js` | `Next.js`
-
-### 🧰 Version Control & Dev Tools  
-`Git` | `GitHub` | `Postman` | `Visual Studio Code`  
-
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-## 🌐 For Business Inquiries  
-📧 Mail ► **hnavidul@gmail.com** <br>  
-💼 LinkedIn ► [linkedin.com/in/navidul-hoque-04b850267](https://www.linkedin.com/in/navidul-hoque-04b850267) <br>  
-🔗 Portfolio ► [navidulhoque.netlify.app](https://navidulhoque.netlify.app)  
+## 🌐 For Business Inquiries
+📧 Mail ► **hnavidul@gmail.com** <br>
+💼 LinkedIn ► [linkedin.com/in/navidul-hoque-04b850267](https://www.linkedin.com/in/navidul-hoque-04b850267) <br>
+🔗 Portfolio ► [navidulhoque.netlify.app](https://navidulhoque.netlify.app)
