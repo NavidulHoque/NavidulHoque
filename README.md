@@ -5,15 +5,14 @@
 </p>
 
 ## 🚀 About Me
-- 🌍 I'm from **Bangladesh**
-- 🎓 **Computer Science and Engineering** graduate from **Military Institute of Science and Technology (MIST)**
-- 💼 Backend Software Engineer with **1+ years of professional experience**
-- 🔄 Currently transitioning into **Data Science and AI Engineering** — currently enrolled in a **Post Graduate Diploma in Data Science with ML & AI** at PeopleNTech Institute, Dhaka
-- 🗄️ Strong foundation in **PostgreSQL**, **API architecture** and **scalable system design** — giving me a head start in data pipeline and ML deployment work
-- 🤖 Actively building toward **AI Engineering** — working through Python, Pandas, Machine Learning and real-world data projects
-- 📊 Currently working on a **Bangladesh Healthcare Appointment Analysis** project using Python and Pandas
-- 📚 Also studying **software business** to bridge technical and business perspectives
-- 🎯 Long-term goal: build production-grade AI systems that solve real problems
+- 🌍 Based in **Bangladesh**
+- 🎓 CSE graduate from **Military Institute of Science and Technology (MIST)**
+- 💼 1+ years as a Backend Engineer, now moving into data-focused roles — analytics, BI and machine learning
+- 📚 Currently studying a Post Graduate Diploma in Data Science with ML & AI at PeopleNTech Institute, Dhaka
+- 🗄️ My backend background (PostgreSQL, API design, scalable systems) gives me a practical edge in working with real data
+- 📊 Currently building a Bangladesh Healthcare Appointment Analysis project using Python and Pandas
+- 💡 Also studying software business to connect technical work with real business needs
+- 🎯 Aiming to grow into a Data Analyst / Data Scientist role, working toward AI Engineering long-term
 
 ## 👨‍💻 Skills
 
