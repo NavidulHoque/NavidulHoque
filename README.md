@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Navidul Hoque</h1>
-<h1 align="center">Backend Engineer → AI Engineering</h1>
+<h1 align="center">Backend Engineer → Data Analyst</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NavidulHoque&label=Profile%20views&color=0e75b6&style=flat" alt="navidulHoque" />
 </p>
