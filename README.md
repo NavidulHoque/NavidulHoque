@@ -16,8 +16,8 @@
 
 ## 👨‍💻 Skills
 
-### 🤖 Data Science & AI (In Progress)
-`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Machine Learning` | `SQL` | `Power BI`
+### 🤖 Data Science & AI
+`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Machine Learning` | `SQL` | `Power BI` | `Microsoft Excel`
 
 ### ⚙️ Engineering Background (Production Experience)
 `TypeScript` | `JavaScript` | `Node.js` | `NestJS` | `PostgreSQL` |  `REST APIs` | `Docker`
