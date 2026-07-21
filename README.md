@@ -11,7 +11,6 @@
 - 📚 Currently studying a Post Graduate Diploma in Data Science with ML & AI at PeopleNTech Institute, Dhaka
 - 🗄️ My backend background (PostgreSQL, API design, scalable systems) gives me a practical edge in working with real data
 - 📊 Currently building a Bangladesh Healthcare Appointment Analysis project using Python and Pandas
-- 💡 Also studying software business to connect technical work with real business needs
 - 🎯 Aiming to grow into a Data Analyst / Data Scientist role, working toward AI Engineering long-term
 
 ## 👨‍💻 Skills
