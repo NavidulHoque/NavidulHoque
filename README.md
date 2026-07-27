@@ -7,11 +7,11 @@
 ## 🚀 About Me
 - 🌍 Based in **Bangladesh**
 - 🎓 CSE graduate from **Military Institute of Science and Technology (MIST)**
-- 💼 1+ years as a Backend Engineer, now moving into data-focused roles — analytics, BI and machine learning
+- 💼 1+ years as a Backend Engineer, now expanding into data analytics, business analytics, machine learning, and AI while applying my software engineering experience.
 - 📚 Currently studying a Post Graduate Diploma in Data Science with ML & AI at PeopleNTech Institute, Dhaka
 - 🗄️ My backend background (PostgreSQL, API design, scalable systems) gives me a practical edge in working with real data
 - 📊 Currently building a Bangladesh Healthcare Appointment Analysis project using Python and Pandas
-- 🎯 Aiming to grow into a Data Analyst / Data Scientist role, working toward AI Engineering long-term
+- 🎯 Aiming to build a career in Data Analytics, Business Analytics and AI while applying technology to solve real business problems.
 
 ## 👨‍💻 Skills
 
