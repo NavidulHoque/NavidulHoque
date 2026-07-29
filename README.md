@@ -13,7 +13,7 @@
 - 📊 Currently building a Bangladesh Healthcare Appointment Analysis project using Python and Pandas
 - 🎯 Aiming to build a career in Data Analytics, Business Analytics and AI while applying technology to solve real business problems.
 
-If you want to learn about me more then here is my statement Link: [Professioonal Statement]([https://www.linkedin.com/in/navidul-hoque-04b850267](https://drive.google.com/file/d/1bx38pm-jLwxeih0Khz8WK4K47fO7D5z6/view)
+If you want to learn about me more then here is my statement Link: [Professioonal Statement](https://drive.google.com/file/d/1bx38pm-jLwxeih0Khz8WK4K47fO7D5z6/view)
 
 ## 👨‍💻 Skills
 
