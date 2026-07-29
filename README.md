@@ -34,4 +34,3 @@ If you'd like to learn more about my professional approach and long term career 
 ## 🌐 For Business Inquiries
 📧 Mail ► **hnavidul@gmail.com** <br>
 💼 LinkedIn ► [linkedin.com/in/navidul-hoque-04b850267](https://www.linkedin.com/in/navidul-hoque-04b850267) <br>
-🔗 Portfolio ► [navidulhoque.netlify.app](https://navidulhoque.netlify.app)
