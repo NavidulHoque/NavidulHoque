@@ -13,7 +13,7 @@
 - 📊 Currently building a Bangladesh Healthcare Appointment Analysis project using Python and Pandas
 - 🎯 Aiming to build a career in Data Analytics, Business Analytics and AI while applying technology to solve real business problems.
 
-If you'd like to learn more about my professional approach and long term career goals, you can read my Professional Statement here: [Professional Statement](https://drive.google.com/file/d/1bx38pm-jLwxeih0Khz8WK4K47fO7D5z6/view)
+If you'd like to learn more about my professional approach and long term career goals, you can read my Professional Statement here: [Professional Statement](https://drive.google.com/file/d/1FiIiVcx_u-COR1vQPadad0999Qym0_Vo/view?usp=sharing)
 
 ## 👨‍💻 Skills
 
