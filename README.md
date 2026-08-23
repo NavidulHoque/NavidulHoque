@@ -9,7 +9,7 @@
 
 * 🌍 Based in **Bangladesh**
 * 🎓 CSE graduate from **Military Institute of Science and Technology (MIST)**
-* 💼 1+ years of professional experience in **backend software engineering**, with production experience in databases, APIs, and software systems
+* 💼 Over one year of professional experience in **backend software engineering**, with production experience in databases, APIs, and software systems
 * 📚 Currently pursuing a **Post Graduate Diploma in Data Science with Machine Learning & Artificial Intelligence** at PeopleNTech Institute, Dhaka
 * 📊 Developing my academic interests in data analytics, business analytics, and data-driven approaches to business problem solving and decision-making
 * 🧩 Interested in applying **data and technology to understand business processes, identify operational patterns, and support informed decision-making**
