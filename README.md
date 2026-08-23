@@ -31,7 +31,9 @@
 
 ## 📈 GitHub Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NavidulHoque&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
+📊 Top Languages
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ## 🌐 Connect
 
