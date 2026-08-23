@@ -29,12 +29,6 @@
 
 `TypeScript` | `JavaScript` | `Node.js` | `NestJS` | `PostgreSQL` | `REST APIs` | `Docker`
 
-## 📈 GitHub Activity
-
-📊 Top Languages
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHoque&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
 ## 🌐 Connect
 
 📧 Email ► **[hnavidul@gmail.com](mailto:hnavidul@gmail.com)** <br>
