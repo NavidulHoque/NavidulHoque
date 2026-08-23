@@ -57,10 +57,6 @@ The project is being progressively extended from **descriptive and operational a
 
 `TypeScript` | `JavaScript` | `Node.js` | `NestJS` | `PostgreSQL` | `REST APIs` | `Docker`
 
-### 🧰 Tools
-
-`Git` | `GitHub` | `Postman` | `Visual Studio Code`
-
 ## 📈 GitHub Activity
 
 <p align="center">
