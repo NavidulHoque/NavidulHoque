@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Navidul Hoque</h1>
-<h2 align="center">Data Analytics | Business Analytics | Data-Driven Problem Solving</h2>
+<h2 align="center">Data & Analytics | Business Intelligence | Information Systems</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NavidulHoque&label=Profile%20views&color=0e75b6&style=flat" alt="NavidulHoque" />
@@ -11,8 +11,8 @@
 * 🎓 CSE graduate from **Military Institute of Science and Technology (MIST)**
 * 💼 Over one year of professional experience in **backend software engineering**, with production experience in databases, APIs, and software systems
 * 📚 Currently pursuing a **Post Graduate Diploma in Data Science with Machine Learning & Artificial Intelligence** at PeopleNTech Institute, Dhaka
-* 📊 Developing my academic interests in data analytics, business analytics, and data-driven approaches to business problem solving and decision-making
-* 🧩 Interested in applying **data and technology to understand business processes, identify operational patterns, and support informed decision-making**
+* 📊 Developing my academic interests at the intersection of **data analytics, business intelligence, information systems, and technology-enabled decision-making**
+* 🧩 Interested in how **data, information, and technology** can be used to understand business processes, identify operational patterns, and support informed decision-making
 * 🎯 Long-term goal: combine technical, analytical, and business knowledge to contribute to **business improvement, strategic decision-making, and broader organizational roles**
 
 ## 👨‍💻 Skills
