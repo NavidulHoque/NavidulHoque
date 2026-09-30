@@ -23,7 +23,7 @@
 
 ### 🤖 Machine Learning & AI
 
-`Machine Learning Fundamentals` | `Artificial Intelligence Fundamentals` 
+`Machine Learning` | `Artificial Intelligence` | `Scikit Learning`
 
 ### ⚙️ Engineering Background
 
